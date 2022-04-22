@@ -1,0 +1,17 @@
+{
+    "/candidatos": {
+        "get": {
+            "candidato": [
+                {
+                    "imgPol": "imgPol1",
+                    "imgPart": "imgPart1",
+                    "imgUF": "imgUF1",
+                    "siglaPart": "siglaPart1",
+                    "nomeCand": "nomeCand1",
+                    "email": "email1@email.com",
+                    "twitter": "twitter1"
+                }
+            ]
+        }
+    }
+}
