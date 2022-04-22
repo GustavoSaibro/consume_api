@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Candidato(models.Model):
     imgPol = models.CharField(max_length=600)
     imgPart = models.CharField(max_length=600)
